@@ -1,0 +1,9 @@
+C:\Aplications\Eshopping\src\Data\Data.Models\bin\Debug\netcoreapp3.1\Data.Models.deps.json
+C:\Aplications\Eshopping\src\Data\Data.Models\bin\Debug\netcoreapp3.1\Data.Models.dll
+C:\Aplications\Eshopping\src\Data\Data.Models\bin\Debug\netcoreapp3.1\Data.Models.pdb
+C:\Aplications\Eshopping\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.csprojAssemblyReference.cache
+C:\Aplications\Eshopping\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.csproj.CoreCompileInputs.cache
+C:\Aplications\Eshopping\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.AssemblyInfoInputs.cache
+C:\Aplications\Eshopping\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.AssemblyInfo.cs
+C:\Aplications\Eshopping\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.dll
+C:\Aplications\Eshopping\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.pdb
